@@ -1,0 +1,10 @@
+.big {
+	width: 500px;
+	height: 500px;
+	background: #2A6ECC;
+	position: relative;
+	margin: auto;
+	margin-top: 4em;
+	top: 5em;
+	border-radius: 20px;
+}
