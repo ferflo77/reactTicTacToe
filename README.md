@@ -1,5 +1,5 @@
-# reactTicTacToe
-## Tic Tac Toe Game made with React JS
+# Tic Tac Toe
+### Game made with React JS
 
 Game made with react js
 
